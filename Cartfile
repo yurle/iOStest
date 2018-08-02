@@ -1,0 +1,8 @@
+# Spa World Carthage file
+
+# SnapKit https://github.com/SnapKit/SnapKit
+github "SnapKit/SnapKit" ~> 4.0.0
+
+# KeychainAccess https://github.com/kishikawakatsumi/KeychainAccess
+github "kishikawakatsumi/KeychainAccess" ~> 3.1.1
+
