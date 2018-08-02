@@ -1,0 +1,92 @@
+/* 
+  Localized.strings
+  Vortex
+
+  Created by Walig Castain on 16/04/18.
+  Copyright © 2018 PaperKite. All rights reserved.
+*/
+
+"Home_moods" = "Moods";
+
+"Temperature_instructions" = "Scroll to change\ntemperature";
+"Temperature_apply" = "Apply";
+"Temperature_current" = "Current";
+"Temperature_target" = "Target";
+
+"Lights_modes" = "Light Modes";
+"Lights_instructions" = "Move dial to\nchange lights";
+"Lights_brightness" = "Brightness";
+"Lights_on" = "On";
+"Lights_off" = "Off";
+"Lights_turn_on_instruction" = "Tap to turn lights on";
+
+"LightModes_instructions" = "Set light mode";
+"LightModes_transtion_speed" = "Transition speed";
+"LightModes_modeDefault_title" = "Default";
+"LightModes_party_title" = "Party";
+"LightModes_fade_title" = "Fade";
+"LightModes_step_title" = "Step";
+
+"Blowers_on" = "On";
+"Blowers_off" = "Off";
+
+"Pumps_label" = "Pumps";
+"Blowers_label" = "Blowers";
+
+"Speed_label" = "Speed";
+
+"Moods_title" = "What's your Mood?";
+
+"MoodButton_therapeutic" = "Therapeutic";
+"MoodButton_relax" = "Relax";
+"MoodButton_party" = "Party";
+
+"MoodView_activate" = "Activate";
+"MoodView_therapeutic_description" = "Recover with a healing hydrotherapy massage for sore, stiff muscles.";
+"MoodView_party_description" = "Get the party started! Lights, bubbles, action!";
+"MoodView_relax_description" = "Live better, sleep better and feel the tension melt away.";
+
+"ConnectIntroView_title" = "Vortex Eon";
+"ConnectIntroView_instructions" = "We’ll send you a magic link to connect. Choose how you’d like to receive link.";
+"ConnectIntroView_connect" = "Connect Spa";
+"ConnectIntroView_help" = "Help & Support";
+
+"ConnectFormView_email_placeholder" = "Enter your email address";
+"ConnectForm_Next" = "Next";
+
+"ConnectEmailSentView_resend" = "Resend Magic Link";
+"ConnectEmailSentView_confirmation_message_part1" = "We’ve just sent an email with magic link to";
+"ConnectEmailSentView_confirmation_message_part2" = "Don’t forget to check you spam folders.";
+
+"error_title" = "Something went wrong";
+"error_unkown_message" = "An unkown error happened";
+"error_serialization_message" = "We were unable to process the server's response.";
+"error_parsing_message" = "The server didn't respond correctly.";
+"error_http_message" = "That the server didn't respond.";
+"error_empty_message" = "Empty response";
+
+"error_ok_button" = "Dismiss";
+
+"LoginFlowController_email_sent_title" = "Email sent";
+"LoginFlowController_email_sent_message" = "We've just sent a new email.";
+"alert_ok_button" = "Done";
+
+"LoadingView_searching" = "Searching for your Spa";
+"LoadingView_goback" = "Go back to login";
+
+"LoadingFlowController_error_keychain" = "Unable to save your account";
+
+"CircleButton_jets_title" = "Jets";
+"CircleButton_temperature_title" = "Temperature";
+"CircleButton_holiday_title" = "Holiday\nMode";
+"CircleButton_holiday_title_on" = "\n(on)";
+"CircleButton_holiday_title_off" = "\n(off)";
+"CircleButton_faq_title" = "FAQs";
+"CircleButton_help_title" = "Help";
+"CircleButton_lights_title" = "Lights";
+
+"SettingsViewController_title" = "Settings";
+
+"SettingsViewController_logout" = "Sign Out";
+
+"LoadingView_retry" = "Retry";
